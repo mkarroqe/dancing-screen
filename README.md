@@ -1,6 +1,6 @@
 # The Dancing Screen
 Presenting my Senior Design Project: *Teaching an AI to dance through Fortnite videos.*
-All work is being done through Google Colab notebooks.
+All work is being done through Google Colab notebooks. Most recent work in [this folder](https://github.com/mkarroqe/dancing-screen/tree/master/notebooks/spring_2020).
 
 # Input Data
 My training data is extracted from this `51:52` minute [complilation video](https://www.youtube.com/watch?v=R7qdgPkPsuQ) of **146** Fornite dances. I am extracting one frame every 2 seconds for a total of **186,720** images.
