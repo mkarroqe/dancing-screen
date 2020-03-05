@@ -16,4 +16,4 @@ Before my frames are fed through my model, they are converted into binary images
 | 1 | Increase contrast to reduce background gradient to blue and cyan pixels | ![contrast image](examples/contrast.png) |
 | 2 | Remove `blue` and `cyan` pixels and replace them with `white`. | ![blue and cyan free image](examples/no-blue-cyan.png) |
 | 3 | Remove remaining intermediary `blue` hues and replace them with `white` pixels. With the background isolated, all other pixels are converted to `orange`.| ![final image](examples/final.png) |
-| 4 | Finally, the image is cropped to remove the sidebars. | `TODO: CROP` |
+| 4 | Finally, the image is cropped to remove the sidebars. | ![cropped](examples/cropped.png) |
